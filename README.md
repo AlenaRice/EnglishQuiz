@@ -11,7 +11,8 @@
 А также, чтобы попрактиковаться в написание кода на JavaScript.
 
 ## Демонстрация
-gudkovaaalena.github.io/EnglishQuiz/
+
+https://gudkovaaalena.github.io/EnglishQuiz/
 
 ## Инструкция по сборке проекта
 
